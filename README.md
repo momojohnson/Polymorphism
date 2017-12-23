@@ -6,5 +6,7 @@
 ### birth month. EX. if currentMonth == birthMonth, the employee deserves
 ### a 100.00 bonus
 
+### Furthermore, if an employee is a base employee, his or her base salary is increased by 10%
+
 ## #It's my birth month yay  : )
 ![thumbs-up-192](https://user-images.githubusercontent.com/29076661/34322390-8af0840c-e7eb-11e7-840a-80e84e3d4781.png)
